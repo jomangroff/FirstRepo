@@ -1,1 +1,2 @@
-Jordan Groff
+var myName = "Jordan Groff";
+
